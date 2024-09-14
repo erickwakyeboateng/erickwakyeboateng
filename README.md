@@ -1,6 +1,8 @@
 # 💫 About Me:
-I am actively advancing my skills in Google Apps Script, React, and other scripting languages, with a particular focus on building dynamic live dashboards that integrate seamlessly with Google Sheets.<br><br>Backed by strong proficiency in HTML, CSS, and JavaScript, I am eager to refine my JavaScript capabilities and collaborate on projects that empower and uplift non-profit organizations.<br><br>I’m passionate about technology, always open to learning, and enjoy discussing anything related to programming. In my downtime, I love immersing myself in music.
-
+I am building my experience in google script.<br>
+I have adequate skills in HTL5, CSS3, JS<br>
+I am looking for collaboration on projects that will enhance the work of non-prfofits.<br>
+I love listening to music.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/boateng.eric44) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erickwakyeboateng) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@kwakye) 
